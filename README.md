@@ -8,7 +8,7 @@
 
 Okkur gekk flestum vel ad setja upp Linux. Forum eftir leidbeiningunum a Myschool og settum allir upp virtual vel med Ubuntu. Einn lenti i veseni med ad setja upp Ubuntu en tad virkadi um leid og hann profadi nyja tolvu.
 
-![Ubuntu](Kalli.jpg)
+![Ubuntu](/home/kalli/INTOmarkdown/Kalli.jpg)
 
 
 ## 2. Uppsetning á vim && git
