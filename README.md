@@ -28,7 +28,9 @@ Okkur gekk frekar vel ad gera allar breytingarnar a skjalinu. Lentum i smavaegil
 * Transmission - [slod a koda](http://www.transmissionbt.com/download/) - Leyfi = MIT
 * Open office - [Slod a koda](http://www.openoffice.org/tools/dev_docs/build_linux.html#GetTheSourceCode) - Leyfi = apache license 2.0
 * Handbrake - [Slod a koda](http://handbrake.fr/downloads.php) - Leyfi = GNU GPLv2
-* Mozilla thunderbird - [Slod a koda](https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives) - Leyfi = MPL 
+* Mozilla thunderbird - [Slod a koda](https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives) - Leyfi = MPL
+
+ 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Okkur fannst tetta ollum mjog skemmtilegt verkefni og gaman ad takast a vid tetta og kynnast linux umhverfinu.
