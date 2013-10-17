@@ -1,14 +1,19 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
++ Karl Daniel Magnusson
++ Kristjan Patrekur Thorsteinsson
++ Stefan Hafsteinsson
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Okkur gekk flestum vel ad setja upp Linux. Forum eftir leidbeiningunum a Myschool og settum allir upp virtual vel med Ubuntu. Einn lenti i veseni med ad setja upp Ubuntu en tad virkadi um leid og hann profadi nyja tolvu.
+
+
+
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Tad var ekkert mal ad setja upp tessi tol. Forum eftir leidbeiningunum a Myschool og engin af okkur lenti i veseni.
 
 ## 3. Unnið með Git (1. hluti)
 
