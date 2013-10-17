@@ -8,7 +8,7 @@
 
 Okkur gekk flestum vel ad setja upp Linux. Forum eftir leidbeiningunum a Myschool og settum allir upp virtual vel med Ubuntu. Einn lenti i veseni med ad setja upp Ubuntu en tad virkadi um leid og hann profadi nyja tolvu.
 
-
+![Ubuntu](Kalli.jpg)
 
 
 ## 2. Uppsetning á vim && git
@@ -17,10 +17,11 @@ Tad var ekkert mal ad setja upp tessi tol. Forum eftir leidbeiningunum a Myschoo
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Okkur gekk frekar vel ad gera allar breytingarnar a skjalinu. Lentum i smavaegilegum vandraedum en ekki neinu sem vid nadum ekki ad leysa sjalfir. Tad var ekkert mal ad forka verkefnid.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+[github.com](https://github.com/KalliMagg/INTOPrufa)
 
+[id]: https://github.com/KalliMagg/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
