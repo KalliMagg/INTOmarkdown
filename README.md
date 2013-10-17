@@ -33,4 +33,9 @@ Okkur gekk frekar vel ad gera allar breytingarnar a skjalinu. Lentum i smavaegil
  
 ## 5. Unnið með Git (2. hluti)
 
-Okkur fannst tetta ollum mjog skemmtilegt verkefni og gaman ad takast a vid tetta og kynnast linux umhverfinu.
+Okkur fannst tetta ollum mjog skemmtilegt verkefni og gaman ad takast a vid tetta og kynnast linux umhverfinu. Her fylgir svo linkurinn a INTOmarkdown repository
+
+[Slod a markdown](https://github.com/KalliMagg/INTOmarkdown)
+
+
+
