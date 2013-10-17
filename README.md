@@ -21,7 +21,6 @@ Okkur gekk frekar vel ad gera allar breytingarnar a skjalinu. Lentum i smavaegil
 
 [github.com](https://github.com/KalliMagg/INTOPrufa)
 
-[id]: https://github.com/KalliMagg/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
