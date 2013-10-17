@@ -19,12 +19,16 @@ Tad var ekkert mal ad setja upp tessi tol. Forum eftir leidbeiningunum a Myschoo
 
 Okkur gekk frekar vel ad gera allar breytingarnar a skjalinu. Lentum i smavaegilegum vandraedum en ekki neinu sem vid nadum ekki ad leysa sjalfir. Tad var ekkert mal ad forka verkefnid.
 
-[github.com](https://github.com/KalliMagg/INTOPrufa)
+[Netslod](https://github.com/KalliMagg/INTOPrufa)
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-
+* Mozilla - [slod a koda](https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives?redirectlocale=en-US&redirectslug=Download_Mozilla_Source_Code) - Leyfi = MPL 2.0
+* VLC - [slod a koda](http://www.videolan.org/vlc/download-sources.html) - Leyfi = LGPL
+* Transmission - [slod a koda](http://www.transmissionbt.com/download/) - Leyfi = MIT
+* Open office - [Slod a koda](http://www.openoffice.org/tools/dev_docs/build_linux.html#GetTheSourceCode) - Leyfi = apache license 2.0
+* Handbrake - [Slod a koda](http://handbrake.fr/downloads.php) - Leyfi = GNU GPLv2
+* Mozilla thunderbird - [Slod a koda](https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives) - Leyfi = MPL 
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
