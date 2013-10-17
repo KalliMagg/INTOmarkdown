@@ -1,8 +1,9 @@
 #Open Source
 
-+ Karl Daniel Magnusson
-+ Kristjan Patrekur Thorsteinsson
-+ Stefan Hafsteinsson
+<ol>
+<li>Karl Daniel Magnusson</li>
+<li>Kristjan Patrekur Thorsteinsson</li>
+<li>Stefan Hafthorsson</li>
 
 ## 1. Linux uppsetning
 
