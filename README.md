@@ -4,6 +4,7 @@
 <li>Karl Daniel Magnusson</li>
 <li>Kristjan Patrekur Thorsteinsson</li>
 <li>Stefan Hafthorsson</li>
+<ol>
 
 ## 1. Linux uppsetning
 
